@@ -1,13 +1,22 @@
-diff --git a/package.json b/package.json
-index fdb3dac8..bc51c698 100644
---- a/package.json
-+++ b/package.json
-@@ -4,7 +4,7 @@
-  "description": "",
+{
+  "name": "integrationconti",
+  "version": "1.0.0",
+  "description": "A random project",
   "main": "index.js",
   "scripts": {
--    "test": "echo \"Error: no test specified\" && exit 1"
-+    "test": "echo \"It Works Already\""
+    "test": "echo \"It Works Already\""
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urthawen/travisci.git"
+  },
+  "keywords": [
+    "wtf"
+  ],
+  "author": "Urthawen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urthawen/travisci/issues"
+  },
+  "homepage": "https://github.com/Urthawen/travisci#readme"
+}
